@@ -290,3 +290,9 @@ height:2500px;
     border-top:1px  lightgrey solid;
     border-bottom:1px  lightgrey solid;
 }
+.dsce
+{
+    width: auto;
+    max-width: 10%;
+max-height: 10%
+}
